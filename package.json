@@ -1,0 +1,22 @@
+{
+  "name": "next-graphql-infinite-scroll",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@apollo/client": "3.3.12",
+    "graphql": "15.5.0",
+    "next": "latest",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-infinite-scroll-component": "6.0.0",
+    "styled-components": "5.2.1"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}
